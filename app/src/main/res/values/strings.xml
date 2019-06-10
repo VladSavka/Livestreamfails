@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LivestreamFails</string>
+    <string name="stream_error_massage">Oops! Something went wrong. Please, check you Internet connection and try again</string>
+</resources>
