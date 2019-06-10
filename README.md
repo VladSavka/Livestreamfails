@@ -1,7 +1,7 @@
 # Livestreamfails
 Android client for https://livestreamfails.com/
 
-	              	Product and technical decisions for Mobile coding assignment  
+	              			Product and technical decisions for Mobile coding assignment  
 
 			                        	Product core functionality
 
