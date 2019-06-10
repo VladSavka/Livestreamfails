@@ -19,8 +19,11 @@ User can play or pause video
 				                          Technical decisions 
 
 Language: Kotlin
+
 Multithreading: Coroutines 
+
 Architecture: MVVM, Repository pattern
+
 Network: Jsop (for parsing livestreamfails.com)
 
 I decided to use Kotlin to reduce boilerplate code (compered with Java), Null Safety, Coroutines, and other features 
