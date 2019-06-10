@@ -34,6 +34,8 @@ I have used Repository pattern in model layer to handle data operations. It prov
 
 In current project Dependency Injection was implemented manually ( see “Injection” class) to keep it simple. In production projects I would rather use Dagger 2 for DI or similar tool 
 
+Also UI and Unit tests are missing right now due to lack of time, but it's realy important to write them
+
 Minimum sdk version is set to 19 (Android 4.4) to cover most android devices 
 
 List of known bugs:
