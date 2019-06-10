@@ -6,10 +6,15 @@ Android client for https://livestreamfails.com/
 			                        	Product core functionality
 
 There is a list of pages with livestreamfails videos
+
 Each page contains video itself and title 
+
 Each page has error state if no internet connection or other errors occurs 
+
 Video starts playing automatically when user navigates to it 
+
 User can play or pause video
+
 
 				                          Technical decisions 
 
@@ -32,8 +37,12 @@ In current project Dependency Injection was implemented manually ( see “Inject
 Minimum sdk version is set to 19 (Android 4.4) to cover most android devices 
 
 List of known bugs:
+
 Video starts playing from beginning on device rotation
+
 While scrolling video view is empty 
+
 On landscape mode title can be shown above the video  
+
 There are maximum 1000 videos in list while it’s much more of them at livestreamfails.com
 
